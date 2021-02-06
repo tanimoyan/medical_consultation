@@ -6,7 +6,7 @@ tkinterライブラリを用いたチェックボックス問診アプリ
 # Features
 
 main.py  
-tkinterライブラリを用いてチェックボックス  
+tkinterライブラリを用いたチェックボックス  
 ![チェックボックス](images/med_picture1.png "hero")
 
 conversation.py  
