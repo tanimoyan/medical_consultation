@@ -52,7 +52,7 @@ pip install csv
 "pubmed.py"の基本的な使い方
  
 ```bash
-git clone 
+git clone https://github.com/tanimoyan/medical_consultation.git  
 python3 main.py
 ```
  
